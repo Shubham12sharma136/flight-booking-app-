@@ -1,12 +1,20 @@
 # Flight-Booking-App-Flutter
 
+
+https://github.com/user-attachments/assets/bef40d8d-7ab4-46cc-8b71-a5091f226a50
+
+
+
 This is a Flight Ticket Booking App Built with Flutter and Dart and works on Chrome and web
 
 "This is a flight ticket booking app with four main screens:
 
 1.Home Screen: The starting screen where users can see featured options and navigate to other sections of the app.
+
 2.Search Screen: Users can search for flights by entering details like departure and arrival locations, travel dates, and the number of passengers.
+
 3.Ticket Screen: Displays the user’s booked tickets with all the necessary details, including flight timing and seat information.
+
 3.Profile Screen: Allows users to view and manage their personal information, bookings, and app settings.
 
 <p align="center">
@@ -27,8 +35,11 @@ This is a Flight Ticket Booking App Built with Flutter and Dart and works on Chr
 In this part of the project, the Home Screen is being developed using Flutter and Dart. The Home Screen acts as the main entry point of the app, where users can start exploring the available features. The code includes:
 
 => AppBar: A clean top bar with the app title.
+
 =>Main Layout: A structured layout displaying featured flight offers, popular destinations, and navigation options to other screens like Search, Ticket, and Profile.
+
 =>Icons and Images: Appropriate icons for flights and hotels are used to make the screen visually appealing.
+
 =>Responsive Design: The UI is designed to be responsive, ensuring a good user experience across different devices.
 
 # A few resources to get you started if this is your first Flutter project:
@@ -38,5 +49,9 @@ In this part of the project, the Home Screen is being developed using Flutter an
 Would you like me to help write a detailed description of the video or the steps shown in it?
 
 
-==========>                        https://github.com/user-attachments/assets/9ca21c81-f39e-4695-ad0f-fa7a03fd5a08
+https://github.com/user-attachments/assets/9ca21c81-f39e-4695-ad0f-fa7a03fd5a08
+
+
+
+https://github.com/user-attachments/assets/09214b2f-1547-4e39-a9eb-78fcd8a33abc
 
