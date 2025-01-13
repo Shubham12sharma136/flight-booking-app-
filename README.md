@@ -1,7 +1,17 @@
 # Flight-Booking-App-Flutter
 
+# A few resources to get you started if this is your first Flutter project:
+
+"I created a video while working on my project. This video shows the process of creating the project."
+
+Would you like me to help write a detailed description of the video or the steps shown in it?
+
 
 https://github.com/user-attachments/assets/bef40d8d-7ab4-46cc-8b71-a5091f226a50
+
+https://github.com/user-attachments/assets/9ca21c81-f39e-4695-ad0f-fa7a03fd5a08
+
+https://github.com/user-attachments/assets/09214b2f-1547-4e39-a9eb-78fcd8a33abc
 
 
 
@@ -48,10 +58,4 @@ In this part of the project, the Home Screen is being developed using Flutter an
 
 Would you like me to help write a detailed description of the video or the steps shown in it?
 
-
-https://github.com/user-attachments/assets/9ca21c81-f39e-4695-ad0f-fa7a03fd5a08
-
-
-
-https://github.com/user-attachments/assets/09214b2f-1547-4e39-a9eb-78fcd8a33abc
 
