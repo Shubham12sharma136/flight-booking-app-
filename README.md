@@ -21,22 +21,22 @@ This is a Flight Ticket Booking App Built with Flutter and Dart and works on Chr
 
 </p>
 
-This project is a starting point for a Flutter application.
-Flight Ticket Booking App – First Screen Creation
+# This project is a starting point for a Flutter application.
+# Flight Ticket Booking App – First Screen Creation
 
 In this part of the project, the Home Screen is being developed using Flutter and Dart. The Home Screen acts as the main entry point of the app, where users can start exploring the available features. The code includes:
 
-AppBar: A clean top bar with the app title.
-Main Layout: A structured layout displaying featured flight offers, popular destinations, and navigation options to other screens like Search, Ticket, and Profile.
-Icons and Images: Appropriate icons for flights and hotels are used to make the screen visually appealing.
-Responsive Design: The UI is designed to be responsive, ensuring a good user experience across different devices.
+=> AppBar: A clean top bar with the app title.
+=>Main Layout: A structured layout displaying featured flight offers, popular destinations, and navigation options to other screens like Search, Ticket, and Profile.
+=>Icons and Images: Appropriate icons for flights and hotels are used to make the screen visually appealing.
+=>Responsive Design: The UI is designed to be responsive, ensuring a good user experience across different devices.
 
-A few resources to get you started if this is your first Flutter project:
+# A few resources to get you started if this is your first Flutter project:
 
 "I created a video while working on my project. This video shows the process of creating the project."
 
 Would you like me to help write a detailed description of the video or the steps shown in it?
 
 
-https://github.com/user-attachments/assets/9ca21c81-f39e-4695-ad0f-fa7a03fd5a08
+==========>                        https://github.com/user-attachments/assets/9ca21c81-f39e-4695-ad0f-fa7a03fd5a08
 
