@@ -131,13 +131,13 @@ class ProfileScreen extends StatelessWidget {
                   crossAxisAlignment: CrossAxisAlignment.center,
                   children: [
                     CircleAvatar(
+                      maxRadius: 25,
+                      backgroundColor: Colors.white,
                       child: Icon(
                         FluentSystemIcons.ic_fluent_lightbulb_filament_filled,
                         color: Styles.primaryColor,
                         size: 27,
                       ),
-                      maxRadius: 25,
-                      backgroundColor: Colors.white,
                     ),
                     Gap(AppLayout.getHeight(12)),
                     Column(
@@ -155,7 +155,7 @@ class ProfileScreen extends StatelessWidget {
                           "You have 95 flights in a year",
                           style: Styles.headLineStyle2.copyWith(
                               fontWeight: FontWeight.w500,
-                              color: Colors.white.withOpacity(0.9),
+                              
                               fontSize: 16),
                         )
                       ],
@@ -201,7 +201,7 @@ class ProfileScreen extends StatelessWidget {
                       style: Styles.headLineStyle4.copyWith(fontSize: 16),
                     ),
                     Text(
-                      "11 June 2022",
+                      "25 Dec 2024",
                       style: Styles.headLineStyle4.copyWith(fontSize: 16),
                     ),
                   ],
